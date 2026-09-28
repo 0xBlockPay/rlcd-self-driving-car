@@ -1,0 +1,6 @@
+{
+  "name": "jev-autonomous-driving",
+  "description": "Jev System One RLCD Model & Python Framework for Autonomous Self-Driving Vehicles based on arXiv:2609.29429",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
